@@ -5,10 +5,8 @@ on:
   push:
     branches:
       - main
-
 permissions:
   contents: read
-
 jobs:
   opentelemetry-aws-xray-release:
     name: '[opentelemetry-aws-xray-release] Draft release'
