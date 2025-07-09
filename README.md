@@ -58,6 +58,25 @@ We'd love your help!. Use tags [up-for-grabs][up-for-grabs-issues] and
 [good first issue][good-first-issues] to get started with the project. Follow
 [CONTRIBUTING](CONTRIBUTING.md) guide to report issues or submit a proposal.
 
+### Maintainers
+
+- [Bryan Naegele](https://github.com/bryannaegele), Simplebet
+- [Tristan Sloughter](https://github.com/tsloughter), MyDecisiveAI
+
+For more information about the maintainer role, see the [community repository](https://github.com/open-telemetry/community/blob/main/guides/contributor/membership.md#maintainer).
+
+### Approvers
+
+- [Andrea Leopardi](https://github.com/whatyouhide), Felt
+- [Andrew Rademacher](https://github.com/andrewhr), Adobe
+- [Bryan Naegele](https://github.com/bryannaegele), Simplebet
+- [Indrek Juhkam](https://github.com/indrekj), Codeswitch
+- [Ricardo Paiva](https://github.com/ricardoccpaiva), IOHK
+- [Tom Taylor](https://github.com/tomtaylor), Kinetic Cafe
+- [Tristan Sloughter](https://github.com/tsloughter), MyDecisiveAI
+
+For more information about the approver role, see the [community repository](https://github.com/open-telemetry/community/blob/main/guides/contributor/membership.md#approver).
+
 ## Useful links
 
 - For more information on OpenTelemetry, see [opentelemetry.io](https://opentelemetry.io).
