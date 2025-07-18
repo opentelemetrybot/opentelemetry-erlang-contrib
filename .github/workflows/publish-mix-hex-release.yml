@@ -108,7 +108,7 @@ jobs:
 
     permissions:
       # write permission is required to create a github release
-      contents: write
+      contents: write # required for pushing changes
       pull-requests: write
     steps:
       - name: "Fetch Github Draft Release"
